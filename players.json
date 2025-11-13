@@ -1,0 +1,23 @@
+{
+  "player_1": {
+    "id": "player_1",
+    "name": "chefgunny",
+    "crowns": 6,
+    "correctAnswers": 46,
+    "createdAt": 1763050075277
+  },
+  "player_2": {
+    "id": "player_2",
+    "name": "MrBean",
+    "crowns": 0,
+    "correctAnswers": 1,
+    "createdAt": 1763050205381
+  },
+  "player_3": {
+    "id": "player_3",
+    "name": "MrBean",
+    "crowns": 0,
+    "correctAnswers": 0,
+    "createdAt": 1763050421685
+  }
+}
